@@ -1,8 +1,27 @@
-# Ignore all executable files
+# =========================
+# Compiled executables
+# =========================
 *.exe
+*.out
+*.o
+*.obj
+*.dll
 
-# Ignore Visual Studio Code folder
+# =========================
+# Visual Studio Code
+# =========================
 .vscode/
-
-# Ignore VS Code workspace files
 *.code-workspace
+
+# =========================
+# Temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# OS files
+# =========================
+Thumbs.db
+.DS_Store
