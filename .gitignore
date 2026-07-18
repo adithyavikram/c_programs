@@ -1,0 +1,8 @@
+# Ignore all executable files
+*.exe
+
+# Ignore Visual Studio Code folder
+.vscode/
+
+# Ignore VS Code workspace files
+*.code-workspace
