@@ -1,13 +1,16 @@
+//logical && (AND) operator  : checks to see if two or more conditions are true
+
 #include <stdio.h>
 
 int main(){
 
     float temp;
+    bool sunny=true;
 
     printf("\nEnter the temprature (less than 100) : ");
     scanf("%f", &temp);
 
-    if (temp >=0 && temp <=30){
+    if (temp >=0 && temp <=30 && sunny){
         printf("\nThe temprature is good.");
     }
     else if (temp >30 && temp <=100){
