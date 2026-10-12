@@ -1,4 +1,5 @@
 // a program to demonstrate the string functions in C
+//
 
 #include <stdio.h>
 #include <string.h>
