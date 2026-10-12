@@ -1,5 +1,6 @@
 // terneray operator : shortcut to if else when assigning / returning a value
 // (condition) ? value if true : value if false
+//
 
 #include <stdio.h>
 
