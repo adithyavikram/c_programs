@@ -6,6 +6,7 @@
 // many c compilers dont check for parameter matching and the program will compile and run
 // missing arguments will result in unexpected behaviour
 // a function prototype causes the compiler to flag an error if arguments are missing and to not compile and run the program
+//
 
 #include <stdio.h>
 
